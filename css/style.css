@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'oldnp'; /* 这里设置字体名称，后续可以通过该名称引用字体 */
+    src: url('../font/oldnewsapper.ttf'); /* 设置字体文件路径和格式 */
+}
+
+*{margin:0; padding: 0;}
+html,body {
+    height: 100%;
+    width: 100%;
+    font-family: 'oldnp';
+}
+body {
+    background-color: rgb(36, 36, 36);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bookcase {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #CCCBC7;
+}
+
+.caserow{
+    display: flex;
+    width: 80%;
+    height: 40%;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.books {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.casebottom {
+    width: 100%;
+    height: 5%;
+    background-color: #BEA695;
+    box-shadow:  3px 3px 6px #907e71;
+}
+
+.book {
+    display: grid;
+    align-items: start;
+    justify-content: center;
+    width: 2%;
+    height: 50%;
+    background-color: brown;
+    box-shadow: inset -1px -1px 0px 0px rgb(48, 48, 48);
+    transition: transform 0.2s ease-in-out;
+}
+
+.title {
+    margin-top: 10px;
+    writing-mode: vertical-lr; /* 竖排文字，lr表示从左到右排列，rl表示从右到左排列 */
+    white-space: nowrap; /* 防止文字换行 */
+    overflow: hidden; /* 防止文字溢出 */
+    text-overflow: ellipsis; /* 如果文字溢出，显示省略号 */
+    font-family: 'oldnp';
+}
+
+.book:hover{
+    transform: translateY(-30px);
+}

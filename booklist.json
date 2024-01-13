@@ -1,5 +1,5 @@
 {
-    "Sheet1": [
+    "二〇二三": [
         {
             "title": "论再生产",
             "author": "路易·阿尔都塞",
@@ -21,31 +21,123 @@
             "classifications": "哲学"
         },
         {
-            "title": "保卫马克思",
-            "author": "阿尔都塞",
-            "titleColor": "black",
-            "pages": 234,
-            "color": "#ececec",
+            "title": "斜目而视",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "white",
+            "pages": 376,
+            "color": "#273842",
             "format": 260,
             "packaging": "P",
             "classifications": "哲学"
         },
         {
-            "title": "事件",
-            "author": "斯拉沃热·齐泽克",
+            "title": "索拉里斯星",
+            "author": "斯坦尼斯瓦夫·莱姆",
+            "titleColor": "white",
+            "pages": 254,
+            "color": "#5E869E",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "小说"
+        },
+        {
+            "title": "第三帝国的到来",
+            "author": "理查德·J.埃文斯",
             "titleColor": "black",
-            "pages": 225,
-            "color": "#88C5C1",
+            "pages": 728,
+            "color": "#C9CBCA",
             "format": 260,
             "packaging": "H",
+            "classifications": "历史"
+        },
+        {
+            "title": "当代国外马克思主义思潮",
+            "author": "张一兵",
+            "titleColor": "white",
+            "pages": 300,
+            "color": "#8A3834",
+            "format": 260,
+            "packaging": "P",
             "classifications": "哲学"
         },
         {
-            "title": "视差之见",
-            "author": "斯拉沃热·齐泽克",
+            "title": "统计学习方法",
+            "author": "李航",
             "titleColor": "white",
-            "pages": 629,
+            "pages": 464,
+            "color": "#3F637B",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "数学"
+        },
+        {
+            "title": "历史地理学十讲",
+            "author": "史念海",
+            "titleColor": "#DED5A9",
+            "pages": 276,
+            "color": "#5A636A",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "后汉书",
+            "author": "范晔",
+            "titleColor": "black",
+            "pages": 1051,
+            "color": "#CBE3C0",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "贝叶斯的博弈",
+            "author": "黄黎原",
+            "titleColor": "#F1D579",
+            "pages": 430,
+            "color": "#137858",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "科普"
+        },
+        {
+            "title": "冰与火之歌的世界",
+            "author": "乔治·R.R.马丁",
+            "titleColor": "white",
+            "pages": 336,
+            "color": "#730D08",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "小说"
+        }
+    ],
+    "二〇二二": [
+        {
+            "title": "交错的世界",
+            "author": "詹姆斯·冈恩",
+            "titleColor": "#E6C89C",
+            "pages": 440,
             "color": "black",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "科普"
+        },
+        {
+            "title": "世界哲学史",
+            "author": "汉斯·约阿西姆·施杜里希",
+            "titleColor": "black",
+            "pages": 756,
+            "color": "white",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "保卫马克思",
+            "author": "阿尔都塞",
+            "titleColor": "black",
+            "pages": 234,
+            "color": "#ececec",
             "format": 260,
             "packaging": "P",
             "classifications": "哲学"
@@ -61,31 +153,43 @@
             "classifications": "哲学"
         },
         {
-            "title": "斜目而视",
-            "author": "斯拉沃热·齐泽克",
-            "titleColor": "white",
-            "pages": 376,
-            "color": "#273842",
-            "format": 260,
-            "packaging": "P",
-            "classifications": "哲学"
-        },
-        {
-            "title": "交错的世界",
-            "author": "詹姆斯·冈恩",
-            "titleColor": "#E6C89C",
-            "pages": 440,
-            "color": "black",
-            "format": 260,
-            "packaging": "H",
-            "classifications": "科普"
-        },
-        {
             "title": "齐泽克的笑话",
             "author": "斯拉沃热·齐泽克",
             "titleColor": "black",
             "pages": 170,
             "color": "#FAD002",
+            "format": 185,
+            "packaging": "P",
+            "classifications": "哲学"
+        }
+    ],
+    "二〇二一": [
+        {
+            "title": "精神分析引论",
+            "author": "西格蒙德·弗洛伊德",
+            "titleColor": "black",
+            "pages": 376,
+            "color": "#FFF7A6",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "导读拉康",
+            "author": "肖恩·霍默",
+            "titleColor": "black",
+            "pages": 225,
+            "color": "#675A56",
+            "format": 185,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "导读齐泽克",
+            "author": "托尼·迈尔斯",
+            "titleColor": "black",
+            "pages": 195,
+            "color": "#104B83",
             "format": 185,
             "packaging": "P",
             "classifications": "哲学"
@@ -101,64 +205,54 @@
             "classifications": "哲学"
         },
         {
-            "title": "表象与本质",
-            "author": "侯世达 ",
-            "titleColor": "white",
-            "pages": 678,
-            "color": "#00508F",
+            "title": "去朋友家的路上",
+            "author": "尼尔斯·弗雷德里克·达尔",
+            "titleColor": "black",
+            "pages": 272,
+            "color": "#E09E86",
             "format": 185,
-            "packaging": "H",
-            "classifications": "哲学"
-        },
-        {
-            "title": "索拉里斯星",
-            "author": "斯坦尼斯瓦夫·莱姆",
-            "titleColor": "white",
-            "pages": 254,
-            "color": "#5E869E",
-            "format": 260,
             "packaging": "P",
             "classifications": "小说"
         },
         {
-            "title": "精神分析引论",
-            "author": "西格蒙德·弗洛伊德",
+            "title": "想象的共同体",
+            "author": "本尼迪克特·安德森",
             "titleColor": "black",
-            "pages": 376,
-            "color": "#FFF7A6",
+            "pages": 263,
+            "color": "#A9B5C1",
             "format": 260,
             "packaging": "P",
-            "classifications": "哲学"
+            "classifications": "社科"
         },
         {
-            "title": "第三帝国的到来",
-            "author": "理查德·J.埃文斯",
-            "titleColor": "black",
-            "pages": 728,
-            "color": "#C9CBCA",
-            "format": 260,
+            "title": "末世迷宫",
+            "author": "西蒙·斯塔伦海格",
+            "titleColor": "white",
+            "pages": 500,
+            "color": "#489077",
+            "format": 360,
             "packaging": "H",
-            "classifications": "历史"
+            "classifications": "绘本"
         },
         {
-            "title": "当权的第三帝国",
-            "author": "理查德·J.埃文斯",
-            "titleColor": "black",
-            "pages": 1008,
-            "color": "#C9CBCA",
+            "title": "历史动力学",
+            "author": "彼得·图尔钦",
+            "titleColor": "#D88C2E",
+            "pages": 340,
+            "color": "#514343",
             "format": 260,
-            "packaging": "H",
-            "classifications": "历史"
+            "packaging": "P",
+            "classifications": "社科"
         },
         {
-            "title": "战时的第三帝国",
-            "author": "理查德·J.埃文斯",
-            "titleColor": "black",
-            "pages": 1200,
-            "color": "#C9CBCA",
-            "format": 260,
+            "title": "宪法学讲义",
+            "author": "林来梵",
+            "titleColor": "#F8AC2B",
+            "pages": 450,
+            "color": "#253D3D",
+            "format": 285,
             "packaging": "H",
-            "classifications": "历史"
+            "classifications": "政治"
         }
     ]
 }

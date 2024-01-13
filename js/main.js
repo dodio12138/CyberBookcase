@@ -2,7 +2,7 @@ const books = document.getElementsByClassName('books')[0];
 
 document.addEventListener('DOMContentLoaded', function () {
     // 读取JSON文件
-    fetch('../booklist.json')
+    fetch('https://dodio12138.github.io/CyberBookcase/booklist.json')
         .then(response => response.json())
         .then(data => {
 

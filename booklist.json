@@ -1,0 +1,164 @@
+{
+    "Sheet1": [
+        {
+            "title": "论再生产",
+            "author": "路易·阿尔都塞",
+            "titleColor": "black",
+            "pages": 600,
+            "color": "#ececec",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "哲学"
+        },
+        {
+            "title": "历史与阶级意识",
+            "author": "卢卡奇",
+            "titleColor": "black",
+            "pages": 446,
+            "color": "#FE7E00",
+            "format": 185,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "保卫马克思",
+            "author": "阿尔都塞",
+            "titleColor": "black",
+            "pages": 234,
+            "color": "#ececec",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "事件",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "black",
+            "pages": 225,
+            "color": "#88C5C1",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "哲学"
+        },
+        {
+            "title": "视差之见",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "white",
+            "pages": 629,
+            "color": "black",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "意识形态的崇高客体",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "black",
+            "pages": 358,
+            "color": "#ececec",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "斜目而视",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "white",
+            "pages": 376,
+            "color": "#273842",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "交错的世界",
+            "author": "詹姆斯·冈恩",
+            "titleColor": "#E6C89C",
+            "pages": 440,
+            "color": "black",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "科普"
+        },
+        {
+            "title": "齐泽克的笑话",
+            "author": "斯拉沃热·齐泽克",
+            "titleColor": "black",
+            "pages": 170,
+            "color": "#FAD002",
+            "format": 185,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "哥德尔·艾舍尔·巴赫",
+            "author": "侯世达 ",
+            "titleColor": "black",
+            "pages": 1053,
+            "color": "#B8BDC0",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "哲学"
+        },
+        {
+            "title": "表象与本质",
+            "author": "侯世达 ",
+            "titleColor": "white",
+            "pages": 678,
+            "color": "#00508F",
+            "format": 185,
+            "packaging": "H",
+            "classifications": "哲学"
+        },
+        {
+            "title": "索拉里斯星",
+            "author": "斯坦尼斯瓦夫·莱姆",
+            "titleColor": "white",
+            "pages": 254,
+            "color": "#5E869E",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "小说"
+        },
+        {
+            "title": "精神分析引论",
+            "author": "西格蒙德·弗洛伊德",
+            "titleColor": "black",
+            "pages": 376,
+            "color": "#FFF7A6",
+            "format": 260,
+            "packaging": "P",
+            "classifications": "哲学"
+        },
+        {
+            "title": "第三帝国的到来",
+            "author": "理查德·J.埃文斯",
+            "titleColor": "black",
+            "pages": 728,
+            "color": "#C9CBCA",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "历史"
+        },
+        {
+            "title": "当权的第三帝国",
+            "author": "理查德·J.埃文斯",
+            "titleColor": "black",
+            "pages": 1008,
+            "color": "#C9CBCA",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "历史"
+        },
+        {
+            "title": "战时的第三帝国",
+            "author": "理查德·J.埃文斯",
+            "titleColor": "black",
+            "pages": 1200,
+            "color": "#C9CBCA",
+            "format": 260,
+            "packaging": "H",
+            "classifications": "历史"
+        }
+    ]
+}

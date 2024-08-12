@@ -1,4 +1,47 @@
 {
+    "二〇二四": [
+        {
+            "title": "红军长征记：原始记录",
+            "author": "刘统",
+            "titleColor": "black",
+            "pages": 300,
+            "color": "#ececec",
+            "format": 200,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "政治的人生",
+            "author": "王沪宁",
+            "titleColor": "Black",
+            "pages": 400,
+            "color": "orange",
+            "format": 220,
+            "packaging": "P",
+            "classifications": "传记"
+        },
+        {
+            "title": "中国思想史十讲",
+            "author": "金观涛 刘青峰",
+            "titleColor": "Black",
+            "pages": 600,
+            "color": "#e1d6ac",
+            "format": 250,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "中国现代思想的起源",
+            "author": "金观涛 刘青峰",
+            "titleColor": "Black",
+            "pages": 600,
+            "color": "#b7ddd1",
+            "format": 250,
+            "packaging": "P",
+            "classifications": "历史"
+        }
+
+    ],
     "二〇二三": [
         {
             "title": "论再生产",

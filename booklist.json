@@ -45,7 +45,7 @@
             "author": "宋杰",
             "titleColor": "Black",
             "pages": 958,
-            "color": "#1ff0d7",
+            "color": "#0fa3a6",
             "format": 250,
             "packaging": "P",
             "classifications": "历史"
@@ -59,6 +59,16 @@
             "format": 300,
             "packaging": "P",
             "classifications": "历史"
+        },
+        {
+            "title": "维纳传",
+            "author": "吉姆·西格尔曼",
+            "titleColor": "white",
+            "pages": 646,
+            "color": "black",
+            "format": 280,
+            "packaging": "P",
+            "classifications": "传记"
         }
 
     ],

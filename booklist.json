@@ -39,6 +39,26 @@
             "format": 250,
             "packaging": "P",
             "classifications": "历史"
+        },
+        {
+            "title": "中国古代战争的地理枢纽",
+            "author": "宋杰",
+            "titleColor": "Black",
+            "pages": 958,
+            "color": "#1ff0d7",
+            "format": 250,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "黄金、香料与殖民地",
+            "author": "劳伦斯·贝尔格林",
+            "titleColor": "Black",
+            "pages": 648,
+            "color": "#f09e1a",
+            "format": 300,
+            "packaging": "P",
+            "classifications": "历史"
         }
 
     ],

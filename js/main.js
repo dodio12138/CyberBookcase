@@ -2,8 +2,8 @@ const bookcase = document.getElementById('bookcase');
 
 document.addEventListener('DOMContentLoaded', function () {
     // 读取JSON文件
-    // fetch('https://dodio12138.github.io/CyberBookcase/booklist.json')
-    fetch('../booklist.json')
+    fetch('https://dodio12138.github.io/CyberBookcase/booklist.json')
+    // fetch('../booklist.json')
         .then(response => response.json())
         .then(data => {
 

@@ -63,14 +63,63 @@
         {
             "title": "维纳传",
             "author": "吉姆·西格尔曼",
-            "titleColor": "white",
+            "titleColor": "White",
             "pages": 646,
-            "color": "black",
+            "color": "Black",
             "format": 280,
             "packaging": "P",
             "classifications": "传记"
+        },
+        {
+            "title": "毛泽东年谱",
+            "author": "中共中央党史和文献研究院",
+            "titleColor": "Black",
+            "pages": 642,
+            "color": "#E9DBB8",
+            "format": 300,
+            "packaging": "H",
+            "classifications": "传记"
+        },
+        {
+            "title": "西行漫记",
+            "author": "埃德加·斯诺",
+            "titleColor": "Black",
+            "pages": 461,
+            "color": "#CF0F1C",
+            "format": 280,
+            "packaging": "P",
+            "classifications": "传记"
+        },
+        {
+            "title": "三国志译注",
+            "author": "方北辰",
+            "titleColor": "Black",
+            "pages": 3204,
+            "color": "White",
+            "format": 290,
+            "packaging": "H",
+            "classifications": "历史"
+        },
+        {
+            "title": "疆域与政区",
+            "author": "李晓杰",
+            "titleColor": "Black",
+            "pages": 300,
+            "color": "#CACDD6",
+            "format": 280,
+            "packaging": "P",
+            "classifications": "历史"
+        },
+        {
+            "title": "政治的人生",
+            "author": "王沪宁",
+            "titleColor": "Black",
+            "pages": 300,
+            "color": "#994F2C",
+            "format": 250,
+            "packaging": "P",
+            "classifications": "日记"
         }
-
     ],
     "二〇二三": [
         {
